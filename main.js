@@ -19,3 +19,13 @@ x=prompt('enter your name');
 
 document.write(x);
 console.log(x);
+
+
+/*var x;
+
+x=prompt('enter your name');
+
+
+document.write(x);*/
+
+
